@@ -1,6 +1,5 @@
 # Veribilimi
-## Veri bilimi, veriden elde edilen bilginin genelleştirilebilir çıkarımlarının araştırılmasıdır. Ya da veri toplama, ayıklama ve analiz etme gibi soruları formülleştirme sürecine dayanır. Genel olarak veri bilimi süreci ardışıktır ve farklı bileşenlerle birlikte devam eder. İzlenen adımlar ise şu şekildedir:
-###
+### Veri bilimi, veriden elde edilen bilginin genelleştirilebilir çıkarımlarının araştırılmasıdır. Ya da veri toplama, ayıklama ve analiz etme gibi soruları formülleştirme sürecine dayanır. Genel olarak veri bilimi süreci ardışıktır ve farklı bileşenlerle birlikte devam eder. İzlenen adımlar ise şu şekildedir:
 
 İlgilenilen soruyu tanımla,
 
